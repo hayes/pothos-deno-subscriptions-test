@@ -1,0 +1,8 @@
+{
+    "imports": {
+        "graphql": "https://esm.sh/graphql",
+        "graphql-yoga": "https://esm.sh/graphql-yoga?external=graphql",
+        "@pothos/core": "https://esm.sh/*@pothos/core@3.23.1",
+        "@pothos/plugin-relay": "https://esm.sh/*@pothos/plugin-relay@3.30.0"
+    }
+}
